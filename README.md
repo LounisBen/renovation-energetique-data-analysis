@@ -27,6 +27,8 @@ L'analyse repose principalement sur :
 - données RGE : établissements et qualifications ;
 - DRIHL / DRIEAT : données MaPrimeRénov' utilisées pour contextualiser l'activité de rénovation aidée.
 
+Les fichiers bruts ne sont volontairement pas intégrés au dépôt afin de conserver un portfolio léger et lisible. Les notebooks et scripts présents dans le dépôt illustrent les principales étapes de collecte, préparation, contrôle et analyse.
+
 ## Technologies utilisées
 
 - Python : pandas, NumPy, nettoyage et exploration des données
